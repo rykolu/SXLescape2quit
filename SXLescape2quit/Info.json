@@ -1,0 +1,11 @@
+{
+    "Id": "SXLescape2quit",
+    "DisplayName": "SXL Escape 2 Quit",
+    "Author": "rykolu",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.22.5.0",
+    "Requirements": [],
+    "AssemblyName": "SXLescape2quit.dll",
+    "EntryMethod": "SXLescape2quit.MainEntry.Load",
+    "HomePage": "https://github.com/rykolu/rykolu"
+}
