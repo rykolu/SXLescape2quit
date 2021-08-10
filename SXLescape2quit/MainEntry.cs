@@ -23,10 +23,11 @@ namespace SXLescape2quit
 		{
 			var harmony = new Harmony(modEntry.Info.Id);
 			harmony.PatchAll(Assembly.GetExecutingAssembly());
+			//lol lmao
 
 			mod = modEntry;
 			modEntry.OnToggle = OnToggle;
-			//modEntry.OnUpdate = OnUpdate;
+			//modEntry.OnUpdate = OnUpdate; 
 
 			return true;
 		}

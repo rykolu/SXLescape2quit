@@ -7,5 +7,6 @@
     "Requirements": [],
     "AssemblyName": "SXLescape2quit.dll",
     "EntryMethod": "SXLescape2quit.MainEntry.Load",
-    "HomePage": "https://github.com/rykolu/rykolu"
+    "HomePage": "https://github.com/rykolu",
+    "Repository":  
 }
